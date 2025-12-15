@@ -1,3 +1,5 @@
+
+< HEAD
 # DocsBuddy
 A role-based medical appointment management system built as a college project using React, Node.js, and MySQL, focusing on patient data confidentiality and secure doctor–admin workflows.
 
